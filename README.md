@@ -6,6 +6,6 @@ Code has also been written for appropriate error handling. Appropriate notificat
 
 This is the frontend.
 
-The code to the backend can be found here: https://github.com/yash0024/p-backend
+The code to the backend can be found here: https://github.com/yash0024/phonebook-backend
 
 The link to the website: https://protected-forest-79354.herokuapp.com/
